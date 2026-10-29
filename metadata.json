@@ -1,0 +1,6 @@
+{
+  "name": "NoteFlow",
+  "description": "AI-powered note taking, automatic transcription, summarization, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
